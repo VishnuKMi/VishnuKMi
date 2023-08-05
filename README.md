@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Full-stack Blockchain development<br>👯 I'm looking to collaborate on projects aimed at implementing Distributed Ledger Technology (DLT)<br>🤝 I'm looking for help with developing an E-sports dApp that can setup tournaments<br>🌱 I'm currently learning Web3 Security, zkSync and RUST<br>🗨️ Ask me about Blockchain and cryptography<br>⚡ Fun fact - My dual citizenship in the realms of coding & gaming allows me to slay bugs and dragons with equal precision🎮🐛🐉<br> ✉️ Contact Me - <a href="mailto:vsnu0408@gmail.com">vsnu0408@gmail.com</a>
+🔭 I'm currently working on Full-stack Blockchain development<br>👯 I'm looking to collaborate on projects aimed at implementing Distributed Ledger Technology (DLT)<br>🤝 I'm looking for help with developing an E-sports dApp that's set to revolutionize the gaming landscape<br>🌱 I'm currently learning Web3 Security, zkSync and RUST<br>🗨️ Ask me about Blockchain and cryptography<br>⚡ Fun fact - My dual citizenship in the realms of coding & gaming allows me to slay bugs and dragons with equal precision🎮🐛🐉<br> ✉️ Contact Me - <a href="mailto:vsnu0408@gmail.com">vsnu0408@gmail.com</a>
 
 
 ## 🌐 Socials:
