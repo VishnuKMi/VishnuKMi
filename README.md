@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-%23117FCB.svg?logo=globe&logoColor=white)](https://vsnu.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-%23117FCB.svg?logo=globe&logoColor=white)](https://www.vsnu.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-km-ab1a05222) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VishnuK69910049) 
 
 # 💻 Tech Stack:
