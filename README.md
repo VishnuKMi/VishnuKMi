@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=VishnuKMi)
 
 # 💫 About Me:
-🔭 I'm currently working on Full-stack Blockchain development<br>🤝 Currently learning Web3 Security, MEV, zkSync and RUST<br>🗨️ Ask me about Blockchain and cryptography<br> ✉️ Contact Me - <a href="mailto:vsnu0408@gmail.com">vsnu0408@gmail.com</a>
+🔭 I'm currently working on Full-stack Blockchain development<br>🤝 Currently learning Web3 Security, MEV, zkSync and RUST<br>🗨️ Ask me about Blockchain and cryptography<br> ✉️ Contact Me - <a href="mailto:vsnuoffc@gmail.com">vsnuoffc@gmail.com</a>
 
 
 ## 🌐 Socials:
